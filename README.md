@@ -139,23 +139,6 @@ A ferramenta reúne diferentes verificações de segurança em um único fluxo e
 
 <div align="center">
 
-## 📈 Atividade
-
-<img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=dhpedro&bg_color=07100e&color=9aff57&line=9aff57&point=ffffff&area=true&hide_border=true"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
-<br>
-
----
-
-
-<div align="center">
-
 ## 🌐 Onde me encontrar
 
 <a href="https://dhpedro.github.io/portifolio/">
