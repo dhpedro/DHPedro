@@ -65,12 +65,6 @@ A ferramenta reúne diferentes verificações de segurança em um único fluxo e
 <div align="center">
 
 <a href="https://github.com/dhpedro/DHUnter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhpedro&repo=DHUnter&theme=github_dark&hide_border=true&title_color=9AFF57&icon_color=9AFF57&text_color=ffffff&bg_color=07100e" alt="DHUnter">
-</a>
-
-<br><br>
-
-<a href="https://github.com/dhpedro/DHUnter">
   <img src="https://img.shields.io/badge/VER%20DHUNTER-9AFF57?style=for-the-badge&logo=github&logoColor=07100e" alt="Ver DHUnter">
 </a>
 
